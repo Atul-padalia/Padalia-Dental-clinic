@@ -1,0 +1,116 @@
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #E1FFB1;
+    /* height: 100vh; */
+    }
+    hr{
+       border-top: 1px solid red;
+    }
+    h1{
+        font-family: 'Sacramento', cursive;
+        color: red;
+        font-size: 35px;
+    }
+    h3{
+        font-family: 'Montserrat', sans-serif;
+        color: #61481C;
+        
+    }
+img{
+        height: 100px;
+        width: 100px;
+    }
+    .logo1{
+        position: absolute;
+        left: 500px;
+        top: 50px;
+    }
+    .logo2{
+        position: absolute;
+        right: 500px;
+        top: 50px;
+    }
+.top-container{
+    position: relative;
+    padding-top: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.about{
+    padding: 0px 50px 0px 50px;
+}
+.dotted{
+    border-top:5px dotted red ;
+    width: 10%;
+}
+.middle-container{
+    position: relative;
+}
+.service1{
+    border: 1px solid red;
+    width: 200px;
+    height: 280px;
+    display: inline-block;
+    /* position: relative; */
+    /* left: 250px; */
+}
+.service2{
+    border: 1px solid red;
+    width: 200px;
+    height: 280px;
+    display: inline-block;
+    position: relative;
+    top: 340px;
+    /* left: 650px; */
+}
+.service3{
+    border: 1px solid red;
+    width: 200px;
+    height: 280px;
+    display: inline-block;
+    /* position: relative; */
+    /* left: 1050px; */
+}
+.service4{
+    border: 1px solid red;
+    width: 212px;
+    height: 280px;
+    display: inline-block;
+    position: relative;
+    top: 320px;
+
+   /* right:100px; */
+ }
+.service5{
+    border: 1px solid red;
+    width: 214px;
+    height: 280px;
+    display: inline-block;
+    /* position: relative; */
+    /* top: 320px; */
+   /* left: 70px; */
+ 
+}
+.bottom-container{
+   background-color: black;
+}
+.contact{
+    display: inline-block;
+    padding-right: 20px;
+    color: white;
+    position: relative;
+    right: 120px;
+    left: 280px;
+}
+.timing{
+    display: inline-block;
+    color: white;
+    position: relative;
+    right: 280px;
+}
+.weekday{
+    position: relative;
+    right: 52px;
+}
